@@ -1,7 +1,10 @@
 # Hello, I'm Sahitya 👋
 
 I am a Computer Science student from Ferozepur, Punjab, with a strong foundation in web development and data analysis. I am passionate about building innovative solutions and enhancing user experiences through technology.
+
 <img src="https://via.placeholder.com/150" align="right" alt="Tech Image 1">
+
+---
 
 ## Skills
 
@@ -40,6 +43,8 @@ I am a Computer Science student from Ferozepur, Punjab, with a strong foundation
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-003B57?logo=matplotlib)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-00A3E0?logo=seaborn)
 
+---
+
 ## Experience
 
 ### Skyline Computer Technologies
@@ -47,6 +52,8 @@ I am a Computer Science student from Ferozepur, Punjab, with a strong foundation
 **June 2023 - July 2023**  
 - Achieved an A+ certification in web development, focusing on full-stack technologies.
 - Designed and developed a user-friendly e-commerce website using WordPress, enhancing online transactions and UI/UX.
+
+---
 
 ## Projects
 
@@ -63,17 +70,22 @@ I am a Computer Science student from Ferozepur, Punjab, with a strong foundation
 ![Foodure Data Analysis](https://via.placeholder.com/150)  
 - Analyzed restaurant data using Python and Streamlit, providing actionable insights through interactive dashboards.
 
+---
+
 ## Education
 
 **Shaheed Bhagat Singh State University, Ferozepur**  
 *B.Tech in Computer Science Engineering* | CGPA: 9.0 | Expected: 2025
 
+---
+
 ## Achievements
-- 1st in Coding Saga
-- Gold Medal in Poster & Logo Design
-- Silver Medal in Aptitude Challenge
+- 🥇 1st in Coding Saga
+- 🥇 Gold Medal in Poster & Logo Design
+- 🥈 Silver Medal in Aptitude Challenge
+
+---
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/sahitya-softwareengineer/)  
 Email: [sahityajaimaa@gmail.com](mailto:sahityajaimaa@gmail.com)
-
