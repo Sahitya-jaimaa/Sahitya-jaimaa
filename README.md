@@ -1,8 +1,10 @@
 # Sahitya 👋
 
-**Computer Science Student | Web Developer | Data Analyst**
+**Full-Stack Web Developer | MERN Stack & Java Specialist**
 
-I am a dedicated Computer Science student at Shaheed Bhagat Singh State University, Ferozepur, Punjab, with a solid foundation in web development and data analysis. My passion lies in crafting innovative solutions that enhance user experiences through technology.
+Transforming ideas into dynamic digital experiences, I am a passionate technologist with expertise in the MERN stack and Java. My toolkit includes Python, Django, and a range of front-end technologies like HTML5, CSS, and JavaScript. I thrive on crafting seamless applications that engage users and drive results.
+
+With a keen eye for detail and a commitment to excellence, I leverage modern tools such as Bootstrap and TailwindCSS, along with robust databases like MongoDB, to build scalable solutions. My proficiency in Node.js, Express.js, and DevOps practices ensures that every project is optimized for performance and reliability.
 
 <img src="https://raw.githubusercontent.com/sahitya-jaimaa/sahitya-jaimaa/main/professional.png" alt="Tech Image" align="right" width="250">
 
@@ -73,6 +75,8 @@ I am a dedicated Computer Science student at Shaheed Bhagat Singh State Universi
 - 🥇 1st Place in Coding Saga
 - 🥇 Gold Medal in Poster & Logo Design
 - 🥈 Silver Medal in Aptitude Challenge
+- 🏅 Certificate of Participation in Flipkart Grid Hackathon
+- 🏅 Merit Certificate from Naukri.com for achieving 98.28 percentile in Naukri Campus Young Turks
 
 ---
 
