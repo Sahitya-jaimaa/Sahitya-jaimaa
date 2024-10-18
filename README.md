@@ -1,6 +1,6 @@
 # Hi I'm Sahitya 👋
 
-**Professional Full-Stack Web Developer | MERN Stack & Java Specialist | Based in India**
+**✨Professional Full-Stack Web Developer | MERN Stack & Java Specialist | Based in India✨**
 
 💼 I am currently pursuing a Bachelor’s degree in Computer Science Engineering.
 
@@ -21,7 +21,7 @@ With a keen eye for detail and a commitment to excellence, I leverage modern too
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/sahitya-softwareengineer/)  
-📧 Email: [sahityajaimaa@gmail.com](mailto:sahityajaimaa@gmail.com)
+<a href="mailto:sahityajaimaa@gmail.com"><img src="https://img.shields.io/badge/Email-sahityajaimaa@gmail.com-red?logo=gmail" alt="Email" /></a>
 
 ---
 
