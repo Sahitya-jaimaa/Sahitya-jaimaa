@@ -53,30 +53,11 @@ I am a dedicated Computer Science student at Shaheed Bhagat Singh State Universi
 
 ---
 
-## Experience
+## GitHub Stats
+![Sahitya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahitya-jaimaa&show_icons=true&theme=radical)
 
-### Skyline Computer Technologies
-*E-commerce Website Development | 45 Days Training*  
-**June 2023 - July 2023**  
-- Completed an intensive training program, earning an A+ certification in web development, with a focus on full-stack technologies.
-- Successfully designed and developed a user-friendly e-commerce website using WordPress, enhancing online transactions and user interface.
-
----
-
-## Projects
-
-### [Student Dashboard](https://github.com/your-username/student-dashboard)
-![Student Dashboard](https://via.placeholder.com/150)  
-- Developed a comprehensive dashboard using Django for efficient backend management.
-- Integrated multiple APIs to provide dynamic educational content.
-
-### [Educonnect](https://github.com/your-username/educonnect)
-![Educonnect](https://via.placeholder.com/150)  
-- Built a personalized learning platform using the MERN stack to facilitate effective interactions between learners and tutors.
-
-### [Foodure Data Analysis](https://github.com/your-username/foodure-data-analysis)
-![Foodure Data Analysis](https://via.placeholder.com/150)  
-- Analyzed restaurant data using Python and Streamlit, delivering actionable insights through interactive dashboards.
+## Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahitya-jaimaa&layout=compact&theme=radical)
 
 ---
 
