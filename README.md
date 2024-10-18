@@ -53,11 +53,12 @@ I am a dedicated Computer Science student at Shaheed Bhagat Singh State Universi
 
 ---
 
+## Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahitya-jaimaa&layout=compact&theme=radical)
+
 ## GitHub Stats
 ![Sahitya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahitya-jaimaa&show_icons=true&theme=radical)
 
-## Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahitya-jaimaa&layout=compact&theme=radical)
 
 ---
 
