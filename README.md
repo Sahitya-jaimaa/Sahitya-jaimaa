@@ -73,5 +73,11 @@ I am a Computer Science student from Ferozepur, Punjab, with a strong foundation
 - Silver Medal in Aptitude Challenge
 
 ## Connect with Me
-- [LinkedIn](https://linkedin.com/in/Sahitya)
-- Email: [sahityajaimaa@gmail.com](mailto:sahityajaimaa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/Sahitya)  
+Email: [sahityajaimaa@gmail.com](mailto:sahityajaimaa@gmail.com)
+
+## Images
+<img src="https://via.placeholder.com/150" align="right" alt="Tech Image 1">
+<img src="https://via.placeholder.com/150" align="right" alt="Tech Image 2">
+<img src="https://via.placeholder.com/150" align="right" alt="Tech Image 3">
+
