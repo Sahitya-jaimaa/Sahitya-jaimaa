@@ -4,7 +4,7 @@
 
 I am a dedicated Computer Science student at Shaheed Bhagat Singh State University, Ferozepur, Punjab, with a solid foundation in web development and data analysis. My passion lies in crafting innovative solutions that enhance user experiences through technology.
 
-<img src="https://raw.githubusercontent.com/sahitya-jaimaa/sahitya-jaimaa/main/professional.png" alt="Tech Image" align="right" width="150">
+<img src="https://raw.githubusercontent.com/sahitya-jaimaa/sahitya-jaimaa/main/professional.png" alt="Tech Image" align="right" width="250">
 
 ---
 
