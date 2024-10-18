@@ -1,10 +1,19 @@
-# Sahitya 👋
+# Hi I'm Sahitya 👋
 
-**Full-Stack Web Developer | MERN Stack & Java Specialist**
+**Professional Full-Stack Web Developer | MERN Stack & Java Specialist | Based in India**
 
-Transforming ideas into dynamic digital experiences, I am a passionate technologist with expertise in the MERN stack and Java. My toolkit includes Python, Django, and a range of front-end technologies like HTML5, CSS, and JavaScript. I thrive on crafting seamless applications that engage users and drive results.
+💼 I am currently pursuing a Bachelor’s degree in Computer Science Engineering.
 
-With a keen eye for detail and a commitment to excellence, I leverage modern tools such as Bootstrap and TailwindCSS, along with robust databases like MongoDB, to build scalable solutions. My proficiency in Node.js, Express.js, and DevOps practices ensures that every project is optimized for performance and reliability.
+📚 I am actively enhancing my skills in web development and deployment.
+
+🔍 I welcome inquiries about WordPress, React, JavaScript, Express.js, Tailwind CSS, Django, and MongoDB.
+
+📧 You can contact me at sahityajaimaa@gmail.com.
+
+Transforming ideas into dynamic digital experiences, I am a passionate technologist with expertise in the **MERN stack** and **Java**. My toolkit includes **Python**, **Django**, and a range of front-end technologies like **HTML5**, **CSS**, and **JavaScript**. I thrive on crafting seamless applications that engage users and drive results.
+
+With a keen eye for detail and a commitment to excellence, I leverage modern tools such as **Bootstrap** and **TailwindCSS**, along with robust databases like **MongoDB**, to build scalable solutions. My proficiency in **Node.js**, **Express.js**, and **DevOps** practices ensures that every project is optimized for performance and reliability.
+
 
 <img src="https://raw.githubusercontent.com/sahitya-jaimaa/sahitya-jaimaa/main/professional.png" alt="Tech Image" align="right" width="250">
 
