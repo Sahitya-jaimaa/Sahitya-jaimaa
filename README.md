@@ -2,7 +2,7 @@
 
 I am a Computer Science student from Ferozepur, Punjab, with a strong foundation in web development and data analysis. I am passionate about building innovative solutions and enhancing user experiences through technology.
 
-**<img src="[https://via.placeholder.com/150](https://img.freepik.com/free-vector/man-working-laptop-with-coffee-stationary-cartoon-vector-illustration_138676-2206.jpg)" align="right" alt="Tech Image 1">**
+**<img src="[https://via.placeholder.com/150]([https://img.freepik.com/free-vector/man-working-laptop-with-coffee-stationary-cartoon-vector-illustration_138676-2206.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fvectors%2Flaptop-character&psig=AOvVaw0bADQG4IwVgbBLvodybpqZ&ust=1729326041512000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiOsde_l4kDFQAAAAAdAAAAABAK))" align="right" alt="Tech Image 1">**
 
 ---
 
