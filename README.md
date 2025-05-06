@@ -50,6 +50,7 @@ With a keen eye for detail and a commitment to excellence, I leverage modern too
 ### Database Management
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-black?logo=git)
@@ -61,6 +62,7 @@ With a keen eye for detail and a commitment to excellence, I leverage modern too
 ![NumPy](https://img.shields.io/badge/-NumPy-black?logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-003B57?logo=matplotlib)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-00A3E0?logo=seaborn)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium)
 
 ---
 
